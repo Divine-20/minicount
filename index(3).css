@@ -1,0 +1,18 @@
+body{
+    background-image: url("yup.webp");
+}
+#head {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 1.5cm; 
+    text-align: center;
+}
+#count-down {
+    
+    color: white;
+    justify-content: space-around;
+   display: flex;
+   font-family: 'Poppins', sans-serif;
+   font-size: 23px;
+    
+}
